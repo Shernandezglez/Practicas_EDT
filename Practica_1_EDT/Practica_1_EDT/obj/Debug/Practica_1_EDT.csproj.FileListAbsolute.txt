@@ -1,0 +1,20 @@
+C:\Users\20137334\source\repos\Practica_1_EDT\Practica_1_EDT\obj\Debug\Practica_1_EDT.csprojResolveAssemblyReference.cache
+C:\Users\20137334\source\repos\Practica_1_EDT\Practica_1_EDT\obj\Debug\Practica_1_EDT.Form1.resources
+C:\Users\20137334\source\repos\Practica_1_EDT\Practica_1_EDT\obj\Debug\Practica_1_EDT.Properties.Resources.resources
+C:\Users\20137334\source\repos\Practica_1_EDT\Practica_1_EDT\obj\Debug\Practica_1_EDT.csproj.GenerateResource.Cache
+C:\Users\20137334\source\repos\Practica_1_EDT\Practica_1_EDT\obj\Debug\Practica_1_EDT.csproj.CoreCompileInputs.cache
+C:\Users\20137334\source\repos\Practica_1_EDT\Practica_1_EDT\bin\Debug\Practica_1_EDT.exe.config
+C:\Users\20137334\source\repos\Practica_1_EDT\Practica_1_EDT\bin\Debug\Practica_1_EDT.exe
+C:\Users\20137334\source\repos\Practica_1_EDT\Practica_1_EDT\bin\Debug\Practica_1_EDT.pdb
+C:\Users\20137334\source\repos\Practica_1_EDT\Practica_1_EDT\obj\Debug\Practica_1_EDT.exe
+C:\Users\20137334\source\repos\Practica_1_EDT\Practica_1_EDT\obj\Debug\Practica_1_EDT.pdb
+C:\Users\ASKII.DESKTOP-D39ELPS\Desktop\Nueva carpeta\Practica_1_EDT\Practica_1_EDT\bin\Debug\Practica_1_EDT.exe.config
+C:\Users\ASKII.DESKTOP-D39ELPS\Desktop\Nueva carpeta\Practica_1_EDT\Practica_1_EDT\bin\Debug\Practica_1_EDT.exe
+C:\Users\ASKII.DESKTOP-D39ELPS\Desktop\Nueva carpeta\Practica_1_EDT\Practica_1_EDT\bin\Debug\Practica_1_EDT.pdb
+C:\Users\ASKII.DESKTOP-D39ELPS\Desktop\Nueva carpeta\Practica_1_EDT\Practica_1_EDT\obj\Debug\Practica_1_EDT.csprojResolveAssemblyReference.cache
+C:\Users\ASKII.DESKTOP-D39ELPS\Desktop\Nueva carpeta\Practica_1_EDT\Practica_1_EDT\obj\Debug\Practica_1_EDT.Form1.resources
+C:\Users\ASKII.DESKTOP-D39ELPS\Desktop\Nueva carpeta\Practica_1_EDT\Practica_1_EDT\obj\Debug\Practica_1_EDT.Properties.Resources.resources
+C:\Users\ASKII.DESKTOP-D39ELPS\Desktop\Nueva carpeta\Practica_1_EDT\Practica_1_EDT\obj\Debug\Practica_1_EDT.csproj.GenerateResource.Cache
+C:\Users\ASKII.DESKTOP-D39ELPS\Desktop\Nueva carpeta\Practica_1_EDT\Practica_1_EDT\obj\Debug\Practica_1_EDT.csproj.CoreCompileInputs.cache
+C:\Users\ASKII.DESKTOP-D39ELPS\Desktop\Nueva carpeta\Practica_1_EDT\Practica_1_EDT\obj\Debug\Practica_1_EDT.exe
+C:\Users\ASKII.DESKTOP-D39ELPS\Desktop\Nueva carpeta\Practica_1_EDT\Practica_1_EDT\obj\Debug\Practica_1_EDT.pdb
