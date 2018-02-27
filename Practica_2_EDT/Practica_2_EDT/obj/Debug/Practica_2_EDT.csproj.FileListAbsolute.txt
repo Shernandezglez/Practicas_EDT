@@ -1,0 +1,10 @@
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\Practica_2_EDT\Practica_2_EDT\bin\Debug\Practica_2_EDT.exe.config
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\Practica_2_EDT\Practica_2_EDT\bin\Debug\Practica_2_EDT.exe
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\Practica_2_EDT\Practica_2_EDT\bin\Debug\Practica_2_EDT.pdb
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\Practica_2_EDT\Practica_2_EDT\obj\Debug\Practica_2_EDT.csprojResolveAssemblyReference.cache
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\Practica_2_EDT\Practica_2_EDT\obj\Debug\Practica_2_EDT.Form1.resources
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\Practica_2_EDT\Practica_2_EDT\obj\Debug\Practica_2_EDT.Properties.Resources.resources
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\Practica_2_EDT\Practica_2_EDT\obj\Debug\Practica_2_EDT.csproj.GenerateResource.Cache
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\Practica_2_EDT\Practica_2_EDT\obj\Debug\Practica_2_EDT.csproj.CoreCompileInputs.cache
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\Practica_2_EDT\Practica_2_EDT\obj\Debug\Practica_2_EDT.exe
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\Practica_2_EDT\Practica_2_EDT\obj\Debug\Practica_2_EDT.pdb
