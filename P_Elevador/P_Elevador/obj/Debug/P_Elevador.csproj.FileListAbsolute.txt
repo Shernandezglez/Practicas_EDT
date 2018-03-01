@@ -1,0 +1,10 @@
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\P_Elevador\P_Elevador\bin\Debug\P_Elevador.exe.config
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\P_Elevador\P_Elevador\bin\Debug\P_Elevador.exe
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\P_Elevador\P_Elevador\bin\Debug\P_Elevador.pdb
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\P_Elevador\P_Elevador\obj\Debug\P_Elevador.csprojResolveAssemblyReference.cache
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\P_Elevador\P_Elevador\obj\Debug\P_Elevador.Form1.resources
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\P_Elevador\P_Elevador\obj\Debug\P_Elevador.Properties.Resources.resources
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\P_Elevador\P_Elevador\obj\Debug\P_Elevador.csproj.GenerateResource.Cache
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\P_Elevador\P_Elevador\obj\Debug\P_Elevador.csproj.CoreCompileInputs.cache
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\P_Elevador\P_Elevador\obj\Debug\P_Elevador.exe
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\P_Elevador\P_Elevador\obj\Debug\P_Elevador.pdb

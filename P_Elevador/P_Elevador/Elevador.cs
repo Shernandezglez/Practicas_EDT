@@ -26,10 +26,7 @@ namespace P_Elevador
             {
                 _estadoDePuerta = true;
             }
-            else
-            {
-                _estadoDePuerta = false;
-            }
+           
 
         }
 
@@ -39,39 +36,47 @@ namespace P_Elevador
             {
                 _estadoDePuerta = false;
             }
+           
             
         }
 
         public void irAPiso(int pisoDestino)
         {
-            do
+           for(int i = _pisoActual; i <= pisoDestino; i++)
             {
-
-            } while (_pisoActual == pisoDestino);
+                if(_pisoActual >= 1 || _pisoActual <= 5 && _estadoDePuerta == false)
+                {
+                    subirPiso();
+                    _pisoActual = i;
+                }
+                else
+                {
+                    bajarPiso();
+                    _pisoActual = i;
+                }
+               
+            }
         }
 
         private void subirPiso()
         {
-            if(_pisoActual == 1 && _estadoDePuerta == true)
+
+            if (_pisoActual >= 1 || _pisoActual <= 5 && _estadoDePuerta == false)
             {
                 _pisoActual++;
-            }
-            else
-            {
-                bajarPiso();
+
             }
         }
 
         private void bajarPiso()
         {
+            
+
             if(_pisoActual >=2 || _pisoActual <=6 && _estadoDePuerta == false)
             {
                 _pisoActual--;
             }
-            else
-            {
-                subirPiso();
-            }
+           
         }
 
         public int getPisoActual
@@ -89,6 +94,15 @@ namespace P_Elevador
             get { return _estadoDePuerta; }
         }
 
+        /*public int setPisoActual
+        {
+            set { _pisoActual = value; }
+        }
+
+        public bool setEstadoDePuerta
+        {
+            set { _estadoDePuerta = value; }
+        }*/
         
 
     }
